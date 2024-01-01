@@ -28,6 +28,8 @@ dependencies:
   # Icons
   cupertino_icons: ^1.0.2
   iconsax: ^0.0.8
+  lottie: ^2.7.0
+  smooth_page_indicator: ^1.1.0
 
 
 
@@ -52,6 +54,8 @@ flutter:
     - assets/logos/
     - assets/icons/
     - assets/images/
+    - assets/onboarding_animation/
+    - assets/auth_animations/
   
   #------------------------------------- LOCAL FONTS ---------------------------------------------#
   fonts:
